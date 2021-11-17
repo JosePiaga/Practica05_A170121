@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:/D:/Accesos%20directos/Desktop/UNACH/9%20Semestre/Servicios%20Web/Practica5_A170121/Tarea.xsl"?>
+<juegos>
+  <tipos>
+    <nombredeljuego>Smite</nombredeljuego>
+    <fecha>2012</fecha>
+    <genero>Guerra</genero>
+    <precio>Gratuito</precio>
+  </tipos>
+  <tipos>
+    <nombredeljuego>Wold Of Thaks</nombredeljuego>
+    <fecha>2010</fecha>
+    <genero>Guerra</genero>
+    <precio>Gratuito</precio>
+  </tipos>
+  <tipos>
+    <nombredeljuego>Minecraft</nombredeljuego>
+    <fecha>2002</fecha>
+    <genero>Aventura y construccion</genero>
+    <precio>Gratuito</precio>
+  </tipos>
+  <tipos>
+    <nombredeljuego>Mario Bros</nombredeljuego>
+    <fecha>1985</fecha>
+    <genero>Aventura</genero>
+    <precio>$2,500</precio>
+  </tipos>
+</juegos>
